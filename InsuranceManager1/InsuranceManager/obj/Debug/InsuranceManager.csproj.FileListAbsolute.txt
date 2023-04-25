@@ -1,0 +1,12 @@
+C:\Users\emkat\source\repos\InsuranceManager1\InsuranceManager\bin\Debug\InsuranceManager.exe.config
+C:\Users\emkat\source\repos\InsuranceManager1\InsuranceManager\bin\Debug\InsuranceManager.exe
+C:\Users\emkat\source\repos\InsuranceManager1\InsuranceManager\bin\Debug\InsuranceManager.pdb
+C:\Users\emkat\source\repos\InsuranceManager1\InsuranceManager\obj\Debug\InsuranceManager.csproj.AssemblyReference.cache
+C:\Users\emkat\source\repos\InsuranceManager1\InsuranceManager\obj\Debug\InsuranceManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\emkat\source\repos\InsuranceManager1\InsuranceManager\obj\Debug\InsuranceManager.Properties.Resources.resources
+C:\Users\emkat\source\repos\InsuranceManager1\InsuranceManager\obj\Debug\InsuranceManager.Views.LoginView.resources
+C:\Users\emkat\source\repos\InsuranceManager1\InsuranceManager\obj\Debug\InsuranceManager.Views.PleaseWork.resources
+C:\Users\emkat\source\repos\InsuranceManager1\InsuranceManager\obj\Debug\InsuranceManager.csproj.GenerateResource.cache
+C:\Users\emkat\source\repos\InsuranceManager1\InsuranceManager\obj\Debug\InsuranceManager.csproj.CoreCompileInputs.cache
+C:\Users\emkat\source\repos\InsuranceManager1\InsuranceManager\obj\Debug\InsuranceManager.exe
+C:\Users\emkat\source\repos\InsuranceManager1\InsuranceManager\obj\Debug\InsuranceManager.pdb
